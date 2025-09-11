@@ -1,29 +1,22 @@
-# Memix – Flashcard Learning App
+<p align="center">
+  <img src="./assets/memix-logo.svg" alt="Memix logo" width="260">
+</p>
 
-A playful flashcard app that helps you learn anything faster. Create custom decks, flip through fun, focused cards, and boost your memory with smart repetition.
+**Memix** is a playful flashcard app that helps you learn anything faster.  
+Create custom decks, flip through fun, focused cards, and boost your memory with smart repetition.  
+This was our **final group project at HackYourFuture**, built with the MERN stack and Agile workflow.
 
----
+## 🔗 Links
+- 🚀 [Live Demo](https://c52b.hyf.dev)
+- 📂 [Original Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
+- 🎥 [Pitch Video](https://youtu.be/QFZ5JKJcIFU)
 
-## Links
--  [Live Demo](https://c52b.hyf.dev)
--  [Original Repository](https://github.com/HackYourFutureProjects/c52-final-project-group-B)
--  [Pitch Video](https://youtu.be/QFZ5JKJcIFU)
-
----
-
-## Features
-- Centralizes study materials and tracks performance
-- Breaks knowledge into small, repeatable chunks
-- Makes learning interactive and engaging
-- Responsive and user-friendly design
-
----
-
-## Tech Stack  
+## Tech Stack
 
 ### Frontend  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge) 
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) 
+![HeroUI](https://img.shields.io/badge/-HeroUI-0EA5E9?style=for-the-badge)  
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) 
@@ -38,42 +31,28 @@ A playful flashcard app that helps you learn anything faster. Create custom deck
 ![Zod](https://img.shields.io/badge/-Zod-3068B7?style=for-the-badge) 
 ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)  
 
----
+## Screenshots
+
+### Home Page
+<img src="./assets/HomePage.gif" alt="Home Page" width="800">
+
+### Flashcards in Action
+<img src="./assets/flashCard.gif" alt="Flashcards in action" width="800">
+
+### AI Generate
+<img src="./assets/AIGenerate.gif" alt="AI Generate feature" width="800">
+
+## Features
+
+- Create and browse custom flashcard decks  
+- Flip through cards with smooth interaction  
+- Smart repetition for effective learning  
+- AI-assisted card generation using OpenAI API
+- Sign up, log in, and reset passwords
+- Responsive layout for desktop and mobile  
 
 ## My Role
+
 - Contributed to both frontend and backend development  
-- Worked on multiple features across the application, from UI components to API integration  
-- Collaborated with the team in design decisions, code reviews, and problem solving  
-- Actively participated in agile ceremonies including sprint planning, daily standups, and retrospectives  
-
----
-
-## Screenshots
-<p align="center">
-  <img src="./assets/memix-landing.png" alt="Landing Page" width="800"/>
-</p>
-
-<p align="center">
-  <img src="./assets/memix-flashcards.gif" alt="Flashcards in action" width="800"/>
-</p>
-
----
-
-## Agile Workflow
-- Weekly sprints with reviews & retrospectives  
-- Daily standups  
-- Backlog refinement & sprint planning  
-- Pair programming & code reviews  
-
----
-
-## Team
-- Ahmad Zetouny – Developer  
-- Elias Daoud Rajha – Developer  
-- Yana Seniuk – Developer  
-- **Nikita Stefanchuk – Developer**  
-- Stas Seldin – DevOps  
-- Jeremy Aniftos – Product Owner  
-- Gal Artsi – Tech Lead  
-
----
+- Worked on multiple features across the application (UI components, API integration, validation)  
+- Participated in design discussions, code reviews, and agile ceremonies (sprint planning, standups, retrospectives)  
