@@ -4,7 +4,7 @@
 
 **Memix** is a playful flashcard app that helps you learn anything faster.  
 Create custom decks, flip through fun, focused cards, and boost your memory with smart repetition.  
-This was our **final group project at HackYourFuture**, built with the MERN stack and Agile workflow.
+This was our **final group project at [HackYourFuture](https://www.hackyourfuture.net/)**, built with the MERN stack and Agile workflow.
 
 ## 🔗 Links
 - 🚀 [Live Demo](https://c52b.hyf.dev)
